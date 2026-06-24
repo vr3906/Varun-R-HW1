@@ -20,4 +20,6 @@ Features:\
 \
 - Type a ticker and the quote panel updates automatically as new data arrives
 
+Screenshot of UI:
+
 <img width="897" height="643" alt="Screenshot 2026-06-24 at 12 21 06 PM" src="https://github.com/user-attachments/assets/34fecc83-add8-4991-8141-60bb9645bbaf" />
