@@ -19,8 +19,8 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import tkinter as tk
 from tkinter import ttk
 
-API_KEY = "PK47WZFSYDDZRWJQYDOVKZKA7F"        
-SECRET_KEY = "mMoL5vBmsD7PrpA7wt3h78rKQ7WjpgxeekD9vaNHKw4"         
+API_KEY = "API KEY"        
+SECRET_KEY = "SECRET KEY"         
 
 class AlpacaConnector:
     def __init__(self, api_key, secret_key):
