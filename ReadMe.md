@@ -19,3 +19,5 @@ Features:\
 - Streams live bid, ask, and last trade price over a websocket\
 \
 - Type a ticker and the quote panel updates automatically as new data arrives
+
+<img width="897" height="643" alt="Screenshot 2026-06-24 at 12 21 06 PM" src="https://github.com/user-attachments/assets/34fecc83-add8-4991-8141-60bb9645bbaf" />
