@@ -1,0 +1,5 @@
+Requirements:
+
+1. Alpaca-py
+2. Matplotlib
+3. Numpy
